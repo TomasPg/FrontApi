@@ -1,0 +1,11 @@
+.text-custom{
+    color: white;
+    font-family: "Shantell Sans", cursive;
+}
+
+.form-custom{
+    background: #7021BF;
+    margin-top: 3%;
+    border-radius: 15px;
+    box-shadow: 1px 1px 20px 3px gray;
+}
